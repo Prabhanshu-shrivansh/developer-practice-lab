@@ -1,10 +1,12 @@
 def check_even_odd(number):
     if number % 2 == 0:
-        return "Even"
+        return "number is Evenn"
     else:
-        return "Odd"
+        return "number is Oddd"
 
 # Test the function
-print(check_even_odd(4))  # Output: Even
-print(check_even_odd(7))  # Output: Odd
+print("HEllo")
+print("jay")
+
+
 print("Prabhanshu")
