@@ -7,3 +7,4 @@ def check_even_odd(number):
 # Test the function
 print(check_even_odd(4))  # Output: Even
 print(check_even_odd(7))  # Output: Odd
+print("Prabhanshu")
