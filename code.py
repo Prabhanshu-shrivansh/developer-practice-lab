@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))
-result = ((num * 2) + 10) // 2 - num
-print(result)
-print("output as result")
+# num = int(input("Enter a number: "))
+# result = ((num * 2) + 10) // 2 - num
+# print(result)
+#Code is Incorrect
